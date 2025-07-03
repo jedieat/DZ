@@ -1,0 +1,8 @@
+﻿  main.cpp
+F:\Project_C++\Модуль 8\Home_Work_8\WorkSpace\main.cpp(38,37): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+F:\Project_C++\Модуль 8\Home_Work_8\WorkSpace\main.cpp(38,32): warning C4309: 'argument': truncation of constant value
+  WorkSpace.vcxproj -> F:\Project_C++\Модуль 8\Home_Work_8\Debug\WorkSpace.exe
