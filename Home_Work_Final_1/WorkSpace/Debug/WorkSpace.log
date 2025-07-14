@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Project_C++\DZ\Home_Work_Final_1\WorkSpace\main.cpp(53,13): warning C4101: 'i_message': unreferenced local variable
+  WorkSpace.vcxproj -> F:\Project_C++\DZ\Home_Work_Final_1\Debug\WorkSpace.exe
